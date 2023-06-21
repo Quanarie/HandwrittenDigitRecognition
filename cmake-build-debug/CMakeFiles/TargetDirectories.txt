@@ -1,0 +1,3 @@
+/Users/viacheslavpopov/CLionProjects/NeuralNetworkNumberRecognition/cmake-build-debug/CMakeFiles/NeuralNetworkNumberRecognition.dir
+/Users/viacheslavpopov/CLionProjects/NeuralNetworkNumberRecognition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viacheslavpopov/CLionProjects/NeuralNetworkNumberRecognition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
